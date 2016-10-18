@@ -27,6 +27,20 @@ squirrels = [
   "http://1.bp.blogspot.com/_v0neUj-VDa4/TFBEbqFQcII/AAAAAAAAFBU/E8kPNmF1h1E/s640/squirrelbacca-thumb.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/soldier-squirrel.jpg",
   "https://dl.dropboxusercontent.com/u/602885/github/squirrelmobster.jpeg",
+  "http://i.imgur.com/5eaSw6w.jpg",
+  "http://i.imgur.com/R2jeJBB.png",
+  "http://i.imgur.com/aTco5L6.jpg",
+  "http://i.imgur.com/D0GQ9Jl.jpg",
+  "http://i.imgur.com/rYayJdG.jpg",
+  "http://i.imgur.com/PZSskiQ.jpg",
+  "http://i.imgur.com/dMsItP3.jpg",
+  "http://i.imgur.com/yrK61Pj.jpg",
+  "http://i.imgur.com/mw4X8mw.jpg",
+  "http://i.imgur.com/s9FRxn2.jpg",
+  "http://i.imgur.com/ljyZ3hZ.png",
+  "http://i.imgur.com/UyexmV4.jpg",
+  "http://i.imgur.com/jiIYOsZ.jpg",
+  "http://i.imgur.com/M3BSAAT.jpg",
 ]
 
 module.exports = (robot) ->
