@@ -18,7 +18,6 @@
 
 squirrels = [
   "https://i.imgur.com/RLQpXfX.png",
-  "https://28.media.tumblr.com/tumblr_lybw63nzPp1r5bvcto1_500.jpg",
   "https://i.imgur.com/nxMZSJi.png",
   "https://i.imgur.com/DPVM1.png",
   "https://i.imgur.com/DEnnA6m.jpg",
@@ -31,7 +30,6 @@ squirrels = [
   "https://i.imgur.com/5eaSw6w.jpg",
   "https://i.imgur.com/R2jeJBB.png",
   "https://i.imgur.com/aTco5L6.jpg",
-  "https://i.imgur.com/D0GQ9Jl.jpg",
   "https://i.imgur.com/rYayJdG.jpg",
   "https://i.imgur.com/PZSskiQ.jpg",
   "https://i.imgur.com/dMsItP3.jpg",
